@@ -8,7 +8,7 @@ public static void main(String[] args)
 	int a=10;
 	
 	int c=10;
-	int multi=a*b*c;
+	int multi=a*c;
 	System.out.println(multi);
 }
 }
